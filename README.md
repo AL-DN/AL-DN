@@ -26,7 +26,7 @@
 
 
 
-<p align="center">I have enjoyed using these technologies / libraries thus far to engineer some interesting projects.</p>
+<p align="center">I have enjoyed using these languages / libraries thus far to engineer some interesting projects.</p>
 <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-DN&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact" />
 <br><br>
 <p align="center">
