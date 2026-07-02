@@ -1,7 +1,10 @@
 <br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=-1px&pause=1000&color=01740B&center=false&width=700&lines=I+don%E2%80%99t+know+the+future.+;I+didn%E2%80%99t+come+here+to+tell+you+how+this+is+going+to+end.+;I+came+here+to+tell+you+how+it%E2%80%99s+going+to+begin.;-+Neo)](https://git.io/typing-svg)
 
----
+
+<img src="https://raw.githubusercontent.com/AL-DN/AL-DN/main/header.svg" width="100%" alt="Terminal Boot">
+
+<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AL-DN&theme=dark&hide_border=true&background=00000000" />
@@ -49,5 +52,7 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
+<br/>
 
+<img src="https://raw.githubusercontent.com/AL-DN/AL-DN/main/footer.svg" width="100%" alt="Terminal Logout">
 
