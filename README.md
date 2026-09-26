@@ -8,12 +8,15 @@ AI Software Engineer with expertise in developing and scaling advanced diagnosti
 ### Technical Expertise
  
 * **Languages:** Python, C++, Java
-* **Artificial Intelligence:** Large Language Models (LLMs), Clustering, LangChain, PyTorch, scikit-learn, NLP
+* **Artificial Intelligence:** NLP, Large Language Models (LLMs), Unsupervised Learning, LangChain, PyTorch, Scikit-Learn
 * **MLOps & Infrastructure:** MLflow, Data Version Control (DVC), LangSmith, Docker
 * **Cloud & Databases:** AWS, Google Cloud Platform (GCP), Neo4j, PostgreSQL, SQLite
 * **Full-Stack Development:** FastAPI, React, Node.js, TypeScript
 
 <br></br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=6000&pause=800&color=01740B&width=435&lines=%22The+best+way+to+predict+the+future+;is+to+invent+it.%E2%80%9D+;%E2%80%94+Lisa+Su)](https://git.io/typing-svg)
+
 ### Professional Credentials & Education
 
 * **Bachelor of Science in Computer Science**
@@ -22,6 +25,6 @@ AI Software Engineer with expertise in developing and scaling advanced diagnosti
 * **Specialization in AI Systems Design:** Transitioning model-centric workflows to scalable, reliable AI ecosystems.
 <br clear="both" />
 
+<br></br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=6000&pause=800&color=01740B&width=435&lines=%22The+best+way+to+predict+the+future+;is+to+invent+it.%E2%80%9D+;%E2%80%94+Lisa+Su)](https://git.io/typing-svg)
  
